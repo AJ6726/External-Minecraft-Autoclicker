@@ -1,5 +1,5 @@
 # Known Issue
-1. The delays are not 100 accurate. 
+1. The delays are not accurate. 
 2. AutoClicker checkbox is bugged when you are on toggle and put a keybind, to fix just click the key you have keybinded once. 
 
 # Maybe Upcoming? 
